@@ -1,0 +1,15 @@
+{
+  "name": "no-framework-spa",
+  "version": "1.0.0",
+  "description": "To properly understand how frameworks like React, Angular and Vue work, this JS only single page application explores the basic functionality behind the idea of single page applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
