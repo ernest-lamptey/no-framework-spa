@@ -1,0 +1,2 @@
+# No Framework Single Page Application
+To properly understand how frameworks like React, Angular and Vue work, this JS only single page application explores the basic functionality behind the idea of single page applications.
